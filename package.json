@@ -1,0 +1,34 @@
+{
+  "name": "guiado-gulp",
+  "version": "1.0.0",
+  "description": "ejercicio guiado de gulp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misshel/S49-Gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "sass",
+    "JavaScript",
+    "npm"
+  ],
+  "author": "Misshel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Misshel/S49-Gulp/issues"
+  },
+  "homepage": "https://github.com/Misshel/S49-Gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "express": "^4.15.3",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0"
+  }
+}
